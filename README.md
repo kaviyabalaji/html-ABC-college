@@ -178,7 +178,9 @@ Design a website for a College. There should be at least 15 web-pages present in
     Address
     <br>
     <textarea cols="80" rows="5" value="address">
-    ```
+```
 ## OUTPUT:
 
-![image](https://github.com/kaviyabalaji/html-ABC-college/blob/main/Screenshot%202024-07-03%20082855.png)
+![image](https://github.com/kaviyabalaji/html-ABC-college/blob/main/Screenshot%202024-07-03%20211738.png)
+![image](https://github.com/kaviyabalaji/html-ABC-college/blob/main/Screenshot%202024-07-03%20211809.png)
+![image](https://github.com/kaviyabalaji/html-ABC-college/blob/main/Screenshot%202024-07-03%20211823.png)
